@@ -1,0 +1,21 @@
+package Coding.String;
+
+public class sample {
+
+    private static final String str = "00034388434";
+
+    public static void main(String[] args) {
+
+        String result = test1();
+        System.out.println(result);
+    }
+
+    public static String test1(){
+        String result="";
+
+
+        return result;
+    }
+
+
+}
